@@ -1,0 +1,40 @@
+
+	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö‘Şıƒ2J$e7d2de02-ab33-439e-8687-752d2b030e83
+
+java:S2095½"DUse try-with-resources or close this "Stream" in a "finally" clause.(é»Íàıÿÿÿÿ8ö‘Şıƒ2J$c532f626-dad3-4a74-af91-a1487da116c3
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8÷‘Şıƒ2J$cc5793d5-7925-42ac-b671-4678f5e597d9
+
+java:S1144"8Remove this unused private "readNumbersFromFile" method.(Ïƒ’İûÿÿÿÿ8ù‘Şıƒ2J$c5ffc63b-0b08-409c-9ddd-155208bd6cd3
+…
+java:S1144˜"<Remove this unused private "readLongNumbersFromFile" method.(¶·§…ÿÿÿÿÿ8ù‘Şıƒ2J$736b7227-bafd-45c5-ab1f-6f3fd714898d
+€
+java:S1144¢"7Remove this unused private "writeNumbersToFile" method.(é¨ŸÜøÿÿÿÿ8ù‘Şıƒ2J$6d7dcc09-f009-4557-9f8c-88d8402233ef
+p
+java:S1144ª",Remove this unused private "isPrime" method.(ëÍ­Õ8ù‘Şıƒ2J$2e24bcc6-334d-42e0-9f16-d701219e372c
+w
+java:S1144²".Remove this unused private "factorial" method.(ë­àüüÿÿÿÿ8ù‘Şıƒ2J$9e92fb88-0e40-49af-965a-1416d37174ed
+{
+java:S1144¼"2Remove this unused private "copyDirectory" method.( ÙØıÿÿÿÿ8ù‘Şıƒ2J$3d35da9f-aca3-4e5a-b9f8-85d7076a32b0
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÈƒíÙüÿÿÿÿ8ú‘Şıƒ2J$862f77a8-6830-4f47-8f8c-25d98c37570d
+r	java:S106"+Replace this use of System.out by a logger.(Éñíìşÿÿÿÿ8ÿ‘Şıƒ2J$bdf6dda6-2634-4fe4-b442-198f4a34eab5
+r	java:S106$"+Replace this use of System.out by a logger.(¹íğ¬üÿÿÿÿ8€’Şıƒ2J$b1e16fdf-84c4-48fe-b726-23d99647a3da
+r	java:S106/"+Replace this use of System.out by a logger.(¬¹É†ıÿÿÿÿ8€’Şıƒ2J$28b2e5d7-abc0-47a6-99b6-522e651f4862
+s	java:S106¸"+Replace this use of System.out by a logger.(ì»¤ñûÿÿÿÿ8ƒ’Şıƒ2J$8b36bed0-08e6-4f0b-8900-3292d2f34adc
+s	java:S106º"+Replace this use of System.out by a logger.(‡‰ÓÌùÿÿÿÿ8ƒ’Şıƒ2J$6befd162-6911-4197-896a-88f5e59d47c8
+m	java:S106¼"+Replace this use of System.out by a logger.(Æ¿òR8ƒ’Şıƒ2J$f4cd1cf8-f2da-4c8f-b43d-8dc84bcc853a
+n	java:S106Å"+Replace this use of System.out by a logger.(ˆâˆ«8„’Şıƒ2J$3a38b6fc-10c4-4204-84a9-dec9bb2fef1d
+n	java:S106×"+Replace this use of System.out by a logger.(«°åã8†’Şıƒ2J$b943d532-bf1e-490c-bf25-d97b6deb57fb
+¢
+java:S2142õ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8†’Şıƒ2J$6cc84502-c22e-4d97-ac88-8ae8d49edb85
+n	java:S106ô"+Replace this use of System.out by a logger.(•Ôöö8ˆ’Şıƒ2J$16af4d7b-89a0-4f3c-a59a-3080c8b8c54f
+n	java:S106†"+Replace this use of System.out by a logger.(˜šÌ¶8‰’Şıƒ2J$e60c50fa-e266-40ab-9a4d-6337ce1d7f3d
+n	java:S106‡"+Replace this use of System.out by a logger.(æ×Ê©8‰’Şıƒ2J$29172e76-c82b-4124-9dbf-197f651d7f04
+m	java:S106ˆ"+Replace this use of System.out by a logger.(«Ğ8‰’Şıƒ2J$e9f0dd13-1a53-4c2f-82a2-2a330ef552f9
+~	java:S125A"<This block of commented-out lines of code should be removed.(¸İ­¸8ƒ’Şıƒ2J$c92cb435-9497-4923-9d6b-d5310a4559a0
+s	java:S106‰"+Replace this use of System.out by a logger.(á‹‚£ÿÿÿÿÿ8Š’Şıƒ2J$c75a7bdc-0c1c-4767-a10b-a6f9d15f8069
+s	java:S106Š"+Replace this use of System.out by a logger.(¨‘û§úÿÿÿÿ8Š’Şıƒ2J$a29e079c-65f7-4491-adc6-d2add965cb7a
+•
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ø»8’Şıƒ2J$c9ddcb1a-1932-4f4c-9196-c8e7c62495b8
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ŒÅñıƒ2
